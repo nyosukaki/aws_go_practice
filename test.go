@@ -6,3 +6,7 @@
 
 
 #sample_projectにdevブランチに制限をかけた
+
+
+
+#dev_prjectが優先になってるはず
