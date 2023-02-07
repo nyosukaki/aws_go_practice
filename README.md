@@ -1,1 +1,1 @@
-# aws_go_practice
+awsとgoの勉強のためのリポジトリ
