@@ -1,0 +1,8 @@
+# ちゃんとfeatureブランチからstageに上げたときにcodebuildが走るかの確認
+
+
+#二つのcodebuideをgithubのwebhookに設定したとき、どちらが反映されるか？
+
+
+
+#sample_projectにdevブランチに制限をかけた
